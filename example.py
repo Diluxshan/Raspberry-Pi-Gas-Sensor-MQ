@@ -1,5 +1,6 @@
-from mq import *
-import sys, time
+from mq import*
+import sys
+import time
 
 try:
     print("Press CTRL+C to abort.")
